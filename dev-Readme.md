@@ -2,11 +2,11 @@
 
 Most of the first creation is going to be programmed through python.
 
-- Generic GUI (Major Distros: Linux , Mac , & Windows)
+- Generic GUI (Major Distros: Linux , Mac , & Windows) - [appJar](http://appjar.info/)
 - Location setting (USA only at first with zipcode)
 - Setting observance
-  - Dark Moon
-  - Crescent
+  - Dark Moon / [Conjunction](http://torahfamily.org/calendar-confusion/)
+  - [Crescent](http://www.babylonrisingbooks.com/PDFs/2017-2018Calendar.pdf)
     - allows to modulate based on sightings
     - calculates by default, and gives likely sighting times.
 - alerts
